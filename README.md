@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <img src="github-contribution-grid-snake.gif" width="auto">
-<img src="FzlDmr.txt" width="auto">
+
 
 ![FzlDmr's GitHub stats](https://github-readme-stats.vercel.app/api?username=FzlDmr&show_icons=true&theme=dark)
